@@ -1,0 +1,23 @@
+ Proposal of Project 
+Website Title:  Wedding _Planer.com
+Description:
+                      Our website is actually based on wedding plans, specifically in Islamabad. We have divided our website in different categories which are further sub-divided. Website is dynamic and its database is maintained by administration of the website.  To visit our website and to avail the opportunities provided by it customers must need to register themselves and we will provide different token numbers to different users/customers and the packages selected by users will add up to the table named “Final Wedding Plan “, prices will be mentioned corresponding to each package and will be summed up in the final table.  
+                   There is a comment session for responses of users to improve the functionality.  For every package selected by user there is a registration form, which collects user’s information and requirements.
+
+Our website contains following features:
+Admin
+About Us
+Sign up
+Sign in
+Categories
+                  1:  Bride 
+Make up ( Mehndi, Barat, Walima )
+Dresses ( Mehndi, Barat, Walima )
+                2: Groom
+Make up ( Mehndi, Barat, Walima )
+Dresses ( Mehndi, Barat, Walima )
+              3: Wedding Halls (Only in Islamabad )
+              4: Photo-shoot ( Mehndi, Barat, Walima )
+Comment Session
+Contact Us
+
